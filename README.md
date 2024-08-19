@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  <a>Hi, I'm Packeting👋<img>https://github.com/images/mona-whisper.gif</img></a>
+  <a>Hi, I'm Packeting👋<img src="https://github.com/images/mona-whisper.gif" /></a>
 </p>
 
 <hr>
